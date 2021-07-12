@@ -16,5 +16,7 @@ AtomDTU-NB采用的是esp32-pico+sim7020c组合，以AT指令进行数据指令�
 
 ## 三、代码目录
 
-[AT-test](./AT-test/AT-test.ino)：使用Atom的本身串口模拟与SIM7020C进行AT指令交互，用于AT指令的测试。
+- [AT-test](./AT-test/AT-test.ino) ：使用Atom的本身串口模拟与SIM7020C进行AT指令交互，用于AT指令的测试。
+
+- [Socket-TCP](./Socket-TCP/Socket-TCP.ino) : Socket TCP功能演示
 
