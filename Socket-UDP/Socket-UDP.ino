@@ -1,6 +1,6 @@
 /*
   仅为at演示，功能后续实现
-  Socket TCP
+  Socket UDP
 */
 
 #include "ATOM_DTU_NB.h"
